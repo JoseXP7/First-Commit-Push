@@ -1,0 +1,17 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+
+h1 {
+	color: #3113CA;
+}
+
+p {
+	font-weight: bold;
+}
